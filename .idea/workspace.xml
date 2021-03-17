@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="468a43f4-075a-4438-9e8a-cbb1349b6031" name="Default Changelist" comment="" />
+    <list default="true" id="468a43f4-075a-4438-9e8a-cbb1349b6031" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/p.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/global.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +32,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nnvCBGkbH2Nr5uAFPKUul6w0Yb" />
   <component name="ProjectViewState">
@@ -56,17 +81,42 @@
       <workItem from="1612046855227" duration="1445000" />
       <workItem from="1612051978921" duration="1903000" />
       <workItem from="1612053917994" duration="1504000" />
+      <workItem from="1614032373139" duration="554000" />
+      <workItem from="1614034629219" duration="598000" />
+      <workItem from="1614047160753" duration="1795000" />
+      <workItem from="1614049050401" duration="1612000" />
+      <workItem from="1614051142428" duration="361000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="273" y="378" key="#Inspections" timestamp="1612044597986">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="273" y="378" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1612044597986" />
+    <state x="1042" y="538" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614034765094">
+      <screen x="48" y="25" width="2512" height="1415" />
+    </state>
+    <state x="1042" y="538" key="#com.intellij.fileTypes.FileTypeChooser/1120.1465.1440.875/48.25.2512.1415@48.25.2512.1415" timestamp="1614034765094" />
+    <state x="977" y="389" width="602" height="735" key="find.popup" timestamp="1614049692973">
+      <screen x="48" y="25" width="2512" height="1415" />
+    </state>
+    <state x="977" y="389" width="602" height="735" key="find.popup/1120.1465.1440.875/48.25.2512.1415@48.25.2512.1415" timestamp="1614049692973" />
     <state x="232" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1612046232473">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>

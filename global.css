@@ -32,3 +32,35 @@ li{
 .show .nav-link{
     color:white !important;
 }
+#headerText{
+    padding-top: 40px;
+    text-align: center;
+    color: white;
+}
+
+.btn-teal{
+    background-color:  black!important;
+    color:#54fff5 ;
+    border-radius: 40px;
+    font-size: 26px;
+    margin-bottom: 50px;
+  /* margin-left: 150px;*/
+    min-height: 65px;
+}
+.btn-teal:hover{
+    color: white;
+}
+
+.linkContainer{
+    padding-top: 40px;
+
+}
+.btn-teal img{
+    max-height: 50px;
+}
+.col-md-6{
+    margin-right: 0!important;
+}
+
+
+
