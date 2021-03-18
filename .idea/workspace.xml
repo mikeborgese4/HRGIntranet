@@ -20,9 +20,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468a43f4-075a-4438-9e8a-cbb1349b6031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/p.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2009 HRG NCI marketing (13 of 20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2009 HRG NCI marketing (18 of 20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2009 HRG NCI marketing (3 of 4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2009 HRG NCI marketing (4 of 4).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 HRG Marketing (1 of 20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 HRG Marketing (14 of 20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 HRG Marketing (17 of 20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 HRG Marketing (19 of 20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 HRG Marketing (2 of 20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 HRG Marketing (6 of 20).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 Oradell 5k (2 of 10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 Oradell 5k (5 of 10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 Oradell 5k (7 of 10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2019 Oradell 5k (8 of 10).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/20190829_150358.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/20190829_153935.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/20190829_154650.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2020 September HRG COVID19-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2020 September HRG COVID19-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2020 September HRG COVID19-19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2020 September HRG COVID19-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2020 September HRG COVID19-20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2020 September HRG COVID19-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2020 September HRG COVID19-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/2020 September HRG COVID19-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/HRG Marketing 2019 (1 of 15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/HRG Marketing 2019 (12 of 15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/HRG Marketing 2019 (14 of 15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/HRG Marketing 2019 (15 of 15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/HRG Marketing 2019 (2 of 15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/HRG Marketing 2019 (5 of 15).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/mammo2019_08.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/p04_0201zzd_brain_sag_t1_flash-01382109.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/p06_0530f_brain_3d_dti_fibertracking-01382106.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/p08_0121i_brain_mra_3dtof_ax_mip-01382105.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/p08_0222d_carotids_cemra_mip_0.7mm-01382104.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/p16_0110h_whole_cns_t2-01382095.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/p28_0114b_elbow_sag_tse_pd-01382120.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/p31_0115zh_wrist_cor_tse_t1-01382118.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/pictures/p33_0117ze_knee_sag_tse_t2-01382115.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkPage.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p.html" beforeDir="false" afterPath="$PROJECT_DIR$/p.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +74,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -50,6 +92,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,6 +103,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mike Borgese\WebstormProjects\HRGIntranetGood\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Mike Borgese\HRGIntranet\images" />
       <recent name="C:\Users\Mike Borgese\HRGIntranet\bootstrap" />
@@ -86,6 +132,7 @@
       <workItem from="1614047160753" duration="1795000" />
       <workItem from="1614049050401" duration="1612000" />
       <workItem from="1614051142428" duration="361000" />
+      <workItem from="1616023865530" duration="5161000" />
     </task>
     <servers />
   </component>
@@ -103,23 +150,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="273" y="378" key="#Inspections" timestamp="1612044597986">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="273" y="378" key="#Inspections/0.0.2560.1400@0.0.2560.1400" timestamp="1612044597986" />
-    <state x="1042" y="538" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1614034765094">
-      <screen x="48" y="25" width="2512" height="1415" />
-    </state>
-    <state x="1042" y="538" key="#com.intellij.fileTypes.FileTypeChooser/1120.1465.1440.875/48.25.2512.1415@48.25.2512.1415" timestamp="1614034765094" />
-    <state x="977" y="389" width="602" height="735" key="find.popup" timestamp="1614049692973">
-      <screen x="48" y="25" width="2512" height="1415" />
-    </state>
-    <state x="977" y="389" width="602" height="735" key="find.popup/1120.1465.1440.875/48.25.2512.1415@48.25.2512.1415" timestamp="1614049692973" />
-    <state x="232" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1612046232473">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="232" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1612046232473" />
   </component>
 </project>

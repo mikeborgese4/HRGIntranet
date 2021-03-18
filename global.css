@@ -1,8 +1,8 @@
-h4{
 
+
+body {
+    overflow: hidden; /* Hide scrollbars */
 }
-
-
 
 body{
     background-color: #95999c !important;
@@ -15,9 +15,28 @@ a{
     color: #54fff5 !important;
 }
 
+.carousel-item{
+    height: 760px;
+
+
+
+}
+#imgCarousel{
+    background: 	#404040;
+}
+.carousel-inner{
+    max-width: 2000px;
+
+
+}
 #imgCarousel img{
-    opacity: 30%;
-    max-height: 760px;
+
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%; margin-left: auto;
+    margin-right: auto;
 }
 li{
     margin-left: 15px;
@@ -34,6 +53,7 @@ li{
 }
 #headerText{
     padding-top: 40px;
+    padding-bottom: 20px;
     text-align: center;
     color: white;
 }
@@ -44,6 +64,7 @@ li{
     border-radius: 40px;
     font-size: 26px;
     margin-bottom: 50px;
+    white-space: normal;
   /* margin-left: 150px;*/
     min-height: 65px;
 }
@@ -52,7 +73,7 @@ li{
 }
 
 .linkContainer{
-    padding-top: 40px;
+    padding-top: 50px;
 
 }
 .btn-teal img{
