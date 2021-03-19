@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title id="title">Title</title>
 </head>
 <body>
 
@@ -37,40 +37,31 @@
 </nav>
 
 <div class = "mainContentContainer ">
-    <h1 id ="headerText">
+    <h1 id ="headerText" class ="headerText">
         X-Ray Technicians
     </h1>
 
 <div id = "imgCont">
-                <img src="images/pictures/2009 HRG NCI marketing (13 of 20).jpg"  alt="gg">
+                <img id="mainImg" src="images/pictures/2009 HRG NCI marketing (13 of 20).jpg"  alt="gg">
 </div>
-    <div class = "linkContainer  row">
-        <button type="button" class="btn btn-teal col-sm-10 col-md-4 offset-1">
-            <img src="images/logos/Synapse.png" class="navbar-brand" alt="gg">
-            Synapse
-        </button>
-        <button type="button" class="btn btn-teal col-sm-10 col-md-4 offset-1">
-            <img src="images/logos/QgendA.png" class="navbar-brand" alt="gg">
-            Qgenda
-        </button>
-
-        <button type="button" class="btn btn-teal col-sm-10 col-md-4 offset-1">
-            <img src="images/logos/fuji.png" class="navbar-brand" alt="gg">
-            Content Management
-        </button>
-
-        <button type="button" class="btn btn-teal col-sm-10 col-md-4 offset-1">
-            <img src="images/logos/hrgicon.png" class="navbar-brand" alt="gg">
-            Symptom Survey
-        </button>
+    <div id="links" class = "linkContainer  row">
 
     </div>
 </div>
+<div class = "errorContainer">
+    <h1>
+        An error has occurred.
+    </h1>
+    <h3  >
+        Please navigate back to the homepage and try again, or you will be redirected in <span id="time">10 second(s).</span>
+    </h3>
+</div>
+
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<script src="global.js"></script>
+<script src="linkPage.js"></script>
 
 </body>
 </html>

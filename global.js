@@ -11,8 +11,6 @@ $(document).ready(function(){
             $( this ).removeClass('show');
             $( this ).find('.nav-link').attr("aria-expanded", "false");
             $( this ).find('.dropdown-menu').removeClass('show');;
-
-
         }
     );
 });

@@ -1,7 +1,7 @@
 
 
 body {
-    overflow: hidden; /* Hide scrollbars */
+    overflow-x: hidden; /* Hide scrollbars */
 }
 
 body{
@@ -51,15 +51,21 @@ li{
 .show .nav-link{
     color:white !important;
 }
-#headerText{
+.headerText{
     padding-top: 40px;
     padding-bottom: 20px;
     text-align: center;
     color: white;
 }
 
+.errorContainer {
+    padding-top: 40px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
 .btn-teal{
-    background-color:  black!important;
+    background-color:  black !important;
     color:#54fff5 ;
     border-radius: 40px;
     font-size: 26px;
@@ -70,6 +76,12 @@ li{
 }
 .btn-teal:hover{
     color: white;
+}
+
+.tealLink:hover {
+    color: white !important;
+    text-decoration: none;
+
 }
 
 .linkContainer{
