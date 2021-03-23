@@ -8,7 +8,7 @@ $(document).ready(function() {
     if(page){
 
         $.ajax({
-            url: 'jsofn/'+page+ '.json',
+            url: 'json/'+page+ '.json',
             dataType: 'json',
             success: function( data ) {
                populate(data)

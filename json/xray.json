@@ -4,22 +4,22 @@
       "links": [
         {
           "text": "Synapse",
-          "url": "",
+          "url": "http://pacs.hrgrad.com/Synapse",
           "logo": "Synapse.png"
         },
         {
           "text": "Qgenda",
-          "url": "",
+          "url": "https://app.qgenda.com/link/view?linkKey=d168f11d-9ae2-4319-a8e7-8aeef691dbf1",
           "logo": "QgendA.png"
         },
         {
           "text": "Content Management",
-          "url": "",
+          "url": "http://pacs.hrgrad.com/Content",
           "logo": "fuji.png"
         },
         {
           "text": "Symptom Survey",
-          "url": "",
+          "url": "https://www.hrgimaging.com/survey-symptoms/",
           "logo": "hrgicon.png"
         }
       ]

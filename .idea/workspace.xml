@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468a43f4-075a-4438-9e8a-cbb1349b6031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/json/xray.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/global.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/global.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p.html" beforeDir="false" afterPath="$PROJECT_DIR$/p.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/json/xray.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/xray.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/linkPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,8 @@
       <workItem from="1614047160753" duration="1795000" />
       <workItem from="1614049050401" duration="1612000" />
       <workItem from="1614051142428" duration="361000" />
-      <workItem from="1616023865530" duration="17841000" />
+      <workItem from="1616023865530" duration="18474000" />
+      <workItem from="1616516704799" duration="787000" />
     </task>
     <task id="LOCAL-00001" summary="3/17 udates">
       <created>1616039041013</created>
@@ -112,7 +112,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616039041013</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3/18 updates">
+      <created>1616113698681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616113698681</updated>
+    </task>
+    <task id="LOCAL-00003" summary="3/18 updates">
+      <created>1616113715970</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616113715970</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="3/17 udates" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/17 udates" />
+    <MESSAGE value="3/18 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="3/18 updates" />
   </component>
 </project>
