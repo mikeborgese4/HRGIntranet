@@ -1,0 +1,30 @@
+{
+  "title": "Nuclear/Pet Technicians",
+  "img": "2009 HRG NCI marketing (13 of 20).jpg",
+  "links": [
+    {
+      "text": "Synapse",
+      "url": "http://pacs.hrgrad.com/Synapse",
+      "logo": "Synapse.png"
+    },
+    {
+      "text": "Qgenda",
+      "url": "https://app.qgenda.com/link/view?linkKey=d168f11d-9ae2-4319-a8e7-8aeef691dbf1",
+      "logo": "QgendA.png"
+    },
+    {
+      "text": "Content Management",
+      "url": "http://pacs.hrgrad.com/Content",
+      "logo": "fuji.png"
+    },
+    {
+      "text": "Symptom Survey",
+      "url": "https://www.hrgimaging.com/survey-symptoms/",
+      "logo": "hrgicon.png"
+    }
+  ]
+
+
+
+
+}

@@ -20,11 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="468a43f4-075a-4438-9e8a-cbb1349b6031" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/json/accounting.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/ct.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/it.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/management.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/mri.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/nurse.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/pet.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/precert.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/radiologist.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/scheduling.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json/ultra.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/json/xray.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/xray.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linkPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/linkPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +114,8 @@
       <workItem from="1614051142428" duration="361000" />
       <workItem from="1616023865530" duration="18474000" />
       <workItem from="1616516704799" duration="787000" />
+      <workItem from="1616517689191" duration="628000" />
+      <workItem from="1616519506413" duration="1721000" />
     </task>
     <task id="LOCAL-00001" summary="3/17 udates">
       <created>1616039041013</created>
