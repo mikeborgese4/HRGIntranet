@@ -16,7 +16,7 @@ a{
 }
 
 .carousel-item{
-    height: 760px;
+    height: 600px;
 
 
 
@@ -29,6 +29,7 @@ a{
 
 
 }
+.navbar .nav-item:hover .dropdown-menu{ display: block; }
 #imgCarousel img{
 
     display: block;
@@ -52,7 +53,7 @@ li{
     color:white !important;
 }
 .headerText{
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 20px;
     text-align: center;
     color: white;

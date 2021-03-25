@@ -8,7 +8,7 @@ $(document).ready(function() {
     if(page){
 
         $.ajax({
-            url: 'json/'+page+ '.json',
+            url: 'jsofn/'+page+ '.json',
             dataType: 'json',
             success: function( data ) {
                populate(data)
@@ -47,6 +47,9 @@ function populate(data){
 function showError(){
     $('.mainContentContainer').hide();
     $(".errorContainer").show();
+    $('#errorHeader').text('An error has occurred.');
+    $('#errorMessage').text('Please navigate back to the homepage and try again, or you will be redirected in ');
+    $('#time').text('10 second(s).');
     let seconds = 10;
     setInterval(function() {
 

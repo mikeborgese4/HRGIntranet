@@ -19,22 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="468a43f4-075a-4438-9e8a-cbb1349b6031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/json/accounting.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/ct.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/hr.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/it.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/management.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/mri.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/nurse.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/pet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/precert.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/radiologist.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/scheduling.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/json/ultra.json" afterDir="false" />
+    <list default="true" id="468a43f4-075a-4438-9e8a-cbb1349b6031" name="Default Changelist" comment="d">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content.html" beforeDir="false" afterPath="$PROJECT_DIR$/content.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.css" beforeDir="false" afterPath="$PROJECT_DIR$/global.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.js" beforeDir="false" afterPath="$PROJECT_DIR$/global.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/json/xray.json" beforeDir="false" afterPath="$PROJECT_DIR$/json/xray.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkPage.css" beforeDir="false" afterPath="$PROJECT_DIR$/linkPage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/linkPage.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,22 +37,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
   </component>
   <component name="ProjectId" id="1nnvCBGkbH2Nr5uAFPKUul6w0Yb" />
   <component name="ProjectViewState">
@@ -70,7 +55,6 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -78,15 +62,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Mike Borgese\WebstormProjects\HRGIntranetGood\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mike Borgese\WebstormProjects\HRGIntranetGood\json" />
       <recent name="C:\Users\Mike Borgese\HRGIntranet\images" />
       <recent name="C:\Users\Mike Borgese\HRGIntranet\bootstrap" />
       <recent name="C:\Users\Mike Borgese\HRGIntranet" />
@@ -112,33 +91,8 @@
       <workItem from="1614047160753" duration="1795000" />
       <workItem from="1614049050401" duration="1612000" />
       <workItem from="1614051142428" duration="361000" />
-      <workItem from="1616023865530" duration="18474000" />
-      <workItem from="1616516704799" duration="787000" />
-      <workItem from="1616517689191" duration="628000" />
-      <workItem from="1616519506413" duration="1721000" />
+      <workItem from="1616629327934" duration="1723000" />
     </task>
-    <task id="LOCAL-00001" summary="3/17 udates">
-      <created>1616039041013</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1616039041013</updated>
-    </task>
-    <task id="LOCAL-00002" summary="3/18 updates">
-      <created>1616113698681</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1616113698681</updated>
-    </task>
-    <task id="LOCAL-00003" summary="3/18 updates">
-      <created>1616113715970</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1616113715970</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,10 +109,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="3/17 udates" />
-    <MESSAGE value="3/18 updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="3/18 updates" />
   </component>
 </project>
