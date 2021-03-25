@@ -24,7 +24,7 @@ $(document).ready(function(){
 
 
 
-    $( ".nav-item" ).hover(
+    /*$( ".nav-item" ).hover(
         function() {
             $( this ).addClass('show');
             $( this ).find('.nav-link').attr("aria-expanded", "true");
@@ -35,7 +35,7 @@ $(document).ready(function(){
             $( this ).find('.nav-link').attr("aria-expanded", "false");
             $( this ).find('.dropdown-menu').removeClass('show');;
         }
-    );
+    );*/
 });
 
 
