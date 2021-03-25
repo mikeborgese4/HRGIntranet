@@ -11,9 +11,10 @@ body{
     margin-right: 30px;
 }
 
-a{
-    color: #54fff5 !important;
+a, .dropdown-item{
+    color: #54fff5 ;
 }
+
 
 .carousel-item{
     height: 600px;
@@ -30,7 +31,7 @@ a{
 
 }
 .navbar .nav-item .dropdown-menu{ display: none; }
-.navbar .nav-item:hover .nav-link{ color: black; !important; }
+.navbar .nav-item:hover .nav-link{ color: white; !important; }
 .navbar .nav-item:hover .dropdown-menu{ display: block; }
 .navbar .nav-item .dropdown-menu{ margin-top:0; }#imgCarousel img{
 
