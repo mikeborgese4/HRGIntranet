@@ -3,25 +3,196 @@
   "img": "2009 HRG NCI marketing (13 of 20).jpg",
   "links": [
     {
-      "text": "Synapse",
-      "url": "http://pacs.hrgrad.com/Synapse",
+      "text": "BCBS Alpha-Prefix Lookup",
+      "url": "http://mypayerdirectory.com/bcbs-prefix-list/",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "NPI Lookup Tool",
+      "url": "https://npiregistry.cms.hhs.gov/",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "AARP",
+      "url": "https://aarpprovideronlinetool.uhc.com/",
       "logo": "Synapse.png"
     },
     {
-      "text": "Qgenda",
-      "url": "https://app.qgenda.com/link/view?linkKey=d168f11d-9ae2-4319-a8e7-8aeef691dbf1",
+      "text": "Aetna Life & Health",
+      "url": "https://office.emdeon.com/vendorfiles/aetnaseniorproducts.html",
       "logo": "QgendA.png"
     },
     {
-      "text": "Content Management",
-      "url": "http://pacs.hrgrad.com/Content",
+      "text": "AIM",
+      "url": "https://providerportal.com/",
       "logo": "fuji.png"
     },
     {
-      "text": "Symptom Survey",
-      "url": "https://www.hrgimaging.com/survey-symptoms/",
+      "text": "Availity",
+      "url": "https://apps.availity.com/availity/web/public.elegant.login",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Bankers Fidelity",
+      "url": "https://provider.bflic.com/login",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Bankers Life & Casualty",
+      "url": "www.bankers.com",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "BAS (Benefit Administrative Services)",
+      "url": "https://bashealth.com/providers/",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Care Core National/eviCore",
+      "url": "https://carriers.carecorenational.com/PreAuthorization/screens/AuthorizationLookup.aspx",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Cigna",
+      "url": "https://cignaforhcp.cigna.com/web/public/guest ",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Cigna Senior Supplemental",
+      "url": "https://myproviderhq.com",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Clover (Auths. Elig through Navinet)",
+      "url": "https://www.cloverhealth.com/en/providers/provider-tools#pre-auth-tools",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Coresource",
+      "url": "https://web7.trustmarkcompanies.com/apps/um/login/ICEPortalLogin.jsp?t_eventcode=1001",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "eviCore/Medsolutions",
+      "url": "https://www.evicore.com/pages/providerlogin.aspx ",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "GHI/EmblemHealth",
+      "url": "http://www.emblemhealth.com/Providers.aspx",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "GPA TPA",
+      "url": "https://gpatpa.com",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Group Administrators",
+      "url": "https://factsweb.groupadministrators.com/FACTSWeb/ProviderEntry.asp?Content=Page1",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "HMA, LLC",
+      "url": "https://providers.hmatpa.com/",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "International Benefits Admin",
+      "url": "https://ibatpa.vbagateway.com/",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Loomis Co",
+      "url": "www.loomisco.net",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Magnacare",
+      "url": "https://clm.magnacare.com/MGProviderclms/Login.aspx",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Meritain",
+      "url": "https://account.meritain.com/Portal/Login",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Mutual of Omaha",
+      "url": "https://www31.mutualofomaha.com/ProviderAccess/",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "National Benefits, Inc",
+      "url": "https://www.wltmediportal.com/MediClm/",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Navinet ",
+      "url": "https://navinet.navimedix.com",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "NIA",
+      "url": "www.radmd.com",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "North America Administrators",
+      "url": "https://lin.naa-lp.com/lin/faces/LinLogin.jsp",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Oscar",
+      "url": "https://accounts.hioscar.com/account/login/?client_context=provider",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "OWCP FECA",
+      "url": "https://owcpmed.dol.gov/portal/main.do",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Samba (Emdeon)",
+      "url": "https://office.emdeon.com/vendorfiles/samba.htm",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Tall Tree Administrators (eligibility)",
+      "url": "https://talltreehealth.com/provider/provider_main",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Transamerica",
+      "url": "https://mymedsuppinfo.com/pregister.aspx",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "Tricare Humana Military (for auth check)",
+      "url": "https://infocenter.humana-military.com/provider/service/Account/Login",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "UHP (United Health Plus)",
+      "url": "https://secure.healthx.com/v3app/publicservice/loginv1/login.aspx?bc=348c0d15-8911-4389-b3d4-068920cd74f7&serviceid=e204aca2-ddcd-4845-928b-1d20bcc55feb",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "UMR",
+      "url": "https://provider.umr.com/tpa-ap-web/",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "United American Life",
+      "url": "https://eprovider.torchmarkcorp.com/PolicyBenefits/PolicyBenefits/",
+      "logo": "hrgicon.png"
+    },
+    {
+      "text": "United Healthcare Optum",
+      "url": "https://healthid.optum.com/tb/app/index.html?TARGET=https%3A%2F%2Flinksession.optum.com%2Fproxy%3Fredirect%3Dhttps%3A%2F%2Fprovider.linkhealth.com%2Fapps%2Fsecure%2Fdashboards%2Fprovider-dashboard%2F&relyingAppId=PRD23484#/login",
       "logo": "hrgicon.png"
     }
+
   ]
 
 
